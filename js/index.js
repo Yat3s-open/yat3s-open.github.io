@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var playlist = [{
-      title:"NiceHidden",
-      artist:"CuPlayer.com",
+      title:"YUKI雪",
+      artist:"山下力哉",
       mp3:"asset/YUKI.mp3",
       poster: "images/1.jpg"
     },{
