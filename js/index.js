@@ -2,7 +2,7 @@ $(document).ready(function(){
   var playlist = [{
       title:"NiceHidden",
       artist:"CuPlayer.com",
-      mp3:"http://rm.sina.com.cn/wm/VZ2010050511043310440VK/music/MUSIC1005051622027270.mp3",
+      mp3:"asset/YUKI.mp3",
       poster: "images/1.jpg"
     },{
       title:"Cro Magnon Man",
