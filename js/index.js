@@ -1,20 +1,15 @@
 $(document).ready(function(){
   var playlist = [{
+      title:"Ziran18岁生日快乐",
+      artist:"大熊",
+      mp3:"asset/ziran.mp3",
+      poster: "images/1.jpg"
+    },{
       title:"YUKI雪",
       artist:"山下力哉",
       mp3:"asset/YUKI.mp3",
       poster: "images/1.jpg"
-    },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://rm.sina.com.cn/wm/VZ2010050511043310440VK/music/MUSIC1005051622027270.mp3",
-      poster: "images/2.jpg"
-    },{
-      title:"Bubble",
-	  artist:"The Stark Palace",
-      mp3: "http://rm.sina.com.cn/wm/VZ2010050511043310440VK/music/MUSIC1005051622027270.mp3",
-      poster: "images/3.jpg"
-  }];
+    }];
   
   var cssSelector = {
     jPlayer: "#jquery_jplayer",
