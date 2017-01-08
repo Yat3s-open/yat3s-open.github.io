@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var playlist = [{
-      title:"Ziran18岁生日快乐",
+      title:"18岁生日快乐",
       artist:"大熊",
       mp3:"asset/ziran.mp3",
       poster: "images/1.jpg"
