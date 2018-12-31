@@ -1,0 +1,12 @@
+.sticky-audio-player {
+  padding: 1em;
+  width: 100%;
+  position: sticky;
+  top: 3em;
+  text-align: center;
+  z-index: 3;
+}
+
+.sticky-audio-player .audio-player {
+  display: inline-block;
+}
