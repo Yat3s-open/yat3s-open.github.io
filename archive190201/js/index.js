@@ -14,7 +14,7 @@ $('#player').hover(function(){
 
 //music player settings
 
-let audio = new Audio('raw/test.mp3');
+let audio = new Audio('raw/hhxdt.mp3');
 
 $('.pause').hide(); //hide pause button until clicked
 
